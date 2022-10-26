@@ -1,6 +1,9 @@
 # Hello, World! 👋
 
-✨ My name is **Bogdan**
+✨ My name is **Bogdan**. 
+- I have large hands-on experience efficiently coding iOS apps. 
+- I've taken part in the development process of small startups as well as large projects. 
+- Last 2 years I have mostly worked with the SwiftUI. 
 
 ## 📌 GitHub Stats
 
