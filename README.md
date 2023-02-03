@@ -2,9 +2,9 @@
 
 ✨ My name is **Bogdan**. 
 
-- I've been working as an iOS developer for 6 years.
-- I was working on different products and was involved in different teams (from 1 to 30 iOS developers).
-- For the last 2 years I have been focusing in building iOS and iPadOS apps with SwiftUI in production.
+- I've been working as an iOS developer for 6 years
+- I was working on different products and was involved in different teams (from 1 to 30 iOS developers)
+- For the last 2 years I have been focusing in building iOS and iPadOS apps with SwiftUI in production
 
 
 ## 📌 GitHub Stats
