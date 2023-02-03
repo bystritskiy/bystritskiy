@@ -1,9 +1,11 @@
 # Hello, World! 👋
 
 ✨ My name is **Bogdan**. 
-- I have large hands-on experience efficiently coding iOS apps. 
-- I've taken part in the development process of small startups as well as large projects. 
-- Last 3 years I have mostly worked with the SwiftUI in production. 
+
+- I've been working as an iOS developer for 6 years.
+- I was working on different products and was involved in different teams (from 1 to 30 iOS developers).
+- For the last 2 years I have been focusing in building iOS and iPadOS apps with SwiftUI in production.
+
 
 ## 📌 GitHub Stats
 
