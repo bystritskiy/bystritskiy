@@ -4,7 +4,7 @@
 
 - I've been working as an iOS developer for 6 years
 - I was working on different products and was involved in different teams (from 1 to 30 iOS developers)
-- For the last 2 years I have been focusing SwiftUI in production
+- For the last 3 years I have been focusing SwiftUI projects
 
 
 ## GitHub Stats
