@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-✨ My name is **Bogdan**. 
+My name is **Bogdan**. 
 
 - I've been working as an iOS developer for 7 years
 - For the last 3 years I have been focusing SwiftUI projects
