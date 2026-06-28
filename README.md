@@ -2,8 +2,7 @@
 
 **iOS Software Engineer building native Apple-platform apps since 2016.**
 
-Focused on production SwiftUI, thoughtful architecture  
-and polished user experiences.
+Focused on SwiftUI, clean architecture, and polished user experiences.
 
 ## GitHub Stats
 
