@@ -6,7 +6,7 @@ Focused on SwiftUI, clean architecture, and polished user experiences.
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bystritskiy&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
+<img src="./profile/stats.svg" alt="GitHub Stats" />
 
 ## Connect
 
