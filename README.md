@@ -1,8 +1,6 @@
 ## Hey, I'm Bogdan 👋
 
-**I make apps. Mostly iOS. Always something I'd use myself.**
-
-Shipping on Apple platforms since 2016 — and lately on the web too.
+**I make apps since 2016. Mostly iOS. Always something I'd use myself.**
 
 ## Projects
 
