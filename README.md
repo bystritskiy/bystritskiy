@@ -12,8 +12,6 @@ Shipping on Apple platforms since 2016 — and lately on the web too.
 - [dscontainer.app](https://dscontainer.app) — Your Synology Docker containers. In your pocket.
 - [Hardcore Tap](https://apps.apple.com/app/hardcoretap/id1334647124) — One tap per second. Sounds easy.
 
-More at [bystritskiy.github.io](https://bystritskiy.github.io).
-
 ## GitHub Stats
 
 <img src="./profile/stats.svg" alt="GitHub Stats" height="165" align="center" />
