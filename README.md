@@ -13,7 +13,6 @@
 ## GitHub Stats
 
 <img src="./profile/stats.svg" alt="GitHub Stats" height="165" align="center" />
-<img src="./profile/top-langs.svg" alt="Most Used Languages" height="165" align="center" />
 
 ## Connect
 
