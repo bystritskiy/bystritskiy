@@ -4,11 +4,11 @@
 
 ## Projects
 
-- [gowithme.club](https://gowithme.club) — Your gaming life. All in one place.
-- [citycinemadb.com](https://citycinemadb.com) — Every Cinema City showtime in Poland. Plus your Unlimited tracker.
-- [tubefold.app](https://tubefold.app) — Less watching. More knowing. YouTube → Markdown.
-- [dscontainer.app](https://dscontainer.app) — Your Synology Docker containers. In your pocket.
-- [Hardcore Tap](https://apps.apple.com/app/hardcoretap/id1334647124) — One tap per second. Sounds easy.
+- [gowithme.club](https://gowithme.club)
+- [citycinemadb.com](https://citycinemadb.com)
+- [tubefold.app](https://tubefold.app)
+- [dscontainer.app](https://dscontainer.app)
+- [Hardcore Tap](https://apps.apple.com/app/hardcoretap/id1334647124)
 
 ## GitHub Stats
 
