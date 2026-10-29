@@ -1,6 +1,6 @@
 ## Hey, I'm Bogdan 👋
 
-**I make apps since 2016. Mostly iOS.
+I've been building apps since 2016. Mostly for iOS.
 
 ## Projects
 
