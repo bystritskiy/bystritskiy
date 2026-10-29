@@ -1,6 +1,6 @@
 ## Hey, I'm Bogdan 👋
 
-**I make apps since 2016. Mostly iOS. Always something I'd use myself.**
+**I make apps since 2016. Mostly iOS.
 
 ## Projects
 
@@ -8,7 +8,6 @@
 - [citycinemadb.com](https://citycinemadb.com)
 - [tubefold.app](https://tubefold.app)
 - [dscontainer.app](https://dscontainer.app)
-- [Hardcore Tap](https://apps.apple.com/app/hardcoretap/id1334647124)
 
 ## GitHub Stats
 
