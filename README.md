@@ -18,7 +18,6 @@ Native PS5 ports of community recompilation and reverse-engineering projects.
 - [Need for Speed: Most Wanted](https://github.com/bystritskiy/speedbreaker-ps5)
 - [Burnout Revenge](https://github.com/bystritskiy/xerenge-ps5)
 - [Prince of Persia: The Sands of Time](https://github.com/bystritskiy/rePOP-ps5)
-- [ICO](https://github.com/bystritskiy/ico-ps5)
 
 ## GitHub Stats
 
