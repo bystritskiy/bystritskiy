@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Bogdan Bystritskiy&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 828, Total Commits  : 5162, Total PRs: 844, Total Issues: 53, Contributed to (last year): 36</desc>
+        <desc id="descId">Total Stars Earned: 828, Total Commits  : 5211, Total PRs: 862, Total Issues: 53, Contributed to (last year): 36</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 28.438050109546467;
+        stroke-dashoffset: 28.398865467140396;
       }
     }
   
@@ -185,7 +185,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >844</text>
+      >862</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
